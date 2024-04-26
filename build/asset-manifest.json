@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/week9/static/css/main.4f92abbc.css",
+    "main.js": "/week9/static/js/main.5569ebe9.js",
+    "static/js/453.5e560239.chunk.js": "/week9/static/js/453.5e560239.chunk.js",
+    "static/media/realstate.jpg": "/week9/static/media/realstate.d03920def657605282c8.jpg",
+    "index.html": "/week9/index.html",
+    "main.4f92abbc.css.map": "/week9/static/css/main.4f92abbc.css.map",
+    "main.5569ebe9.js.map": "/week9/static/js/main.5569ebe9.js.map",
+    "453.5e560239.chunk.js.map": "/week9/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f92abbc.css",
+    "static/js/main.5569ebe9.js"
+  ]
+}
